@@ -1,0 +1,40 @@
+.container {
+  box-shadow: 5px 4px 6px rgba(68, 68, 255, 0.3);
+}
+
+.container > div {
+  border: 1px solid #bbb;
+  padding: calc(2rem - 10px) 2rem 2rem;
+}
+
+.container ul {
+  margin: 0 0 2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.container li {
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+}
+
+.container h3 {
+  margin: 0px;
+  padding: 10px 0;
+  color: #fff;
+  background: #44f;
+  text-transform: uppercase;
+  font-weight: 400;
+  text-align: center;
+}
+
+.container button {
+  padding: 0.65em 0;
+  width: 100%;
+  outline: none;
+  border: 1px solid #44f;
+  color: #44f;
+  border-radius: 3em;
+  background: transparent;
+}
