@@ -3,7 +3,7 @@ import styles from './Plan.module.css';
 
 import { MdDone as CheckIcon } from 'react-icons/md';
 
-export default function Plan({ type, duration, min, max, gain }) {
+export default function Plan({ type, min, max, gain }) {
   return (
     <div className={styles.container}>
       <h3>{type} plan</h3>
@@ -13,7 +13,7 @@ export default function Plan({ type, duration, min, max, gain }) {
             <CheckIcon /> {gain}% daily percentage gain
           </li>
           <li>
-            <CheckIcon /> Everyday for {duration} days
+            <CheckIcon /> 7 days
           </li>
           <li>
             <CheckIcon /> Deposit between ${min} - ${max || 'infinity'}

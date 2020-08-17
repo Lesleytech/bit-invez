@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <header className={styles.header}>
       <div className={styles.container}>
-        <strong>
+        <strong className={styles.brand}>
           <span>Bi</span>t<span> i</span>nvez
           <span>.</span>
         </strong>

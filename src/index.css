@@ -11,40 +11,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-a {
-  font-size: 1.7rem;
-  color: #333;
-}
-
-p,
-strong {
-  font-size: 1.8rem;
-}
-
-h1 {
-  font-size: 4rem;
-}
-
-h2 {
-  font-size: 3.5rem;
-}
-
-h3 {
-  font-size: 2rem;
-}
-
-h4 {
-  font-size: 1.8rem;
-}
-
-li {
-  font-size: 1.8rem;
-}
-
-button {
-  font-size: 1.8rem;
-}
-
 @media (max-width: 600px) {
   html {
     font-size: 9px;

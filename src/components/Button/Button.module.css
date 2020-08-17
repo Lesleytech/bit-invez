@@ -1,0 +1,17 @@
+.btn {
+    padding: 0.65em 1em;
+    outline: none;
+    border-radius: 3em;
+    background: var(--primary-color);
+    color: #fff;
+    border: none;
+    text-transform: capitalize;
+}
+
+.btn_outlined {
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    background: transparent;
+}
+
+.btn_filled {}

@@ -9,7 +9,7 @@ export default function ProtectedRoute({ component: Component, ...rest }) {
     <Route
       {...rest}
       render={(props) => {
-        if (currentUser) {
+        if (!!currentUser) {
           return <Component {...props} />;
         } else {
           return <Redirect to='/welcome' />;
