@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c44eaf209ea37a72289f78011f70e81c",
+    "revision": "0a52957fefab3c114a6b472759be475a",
     "url": "/bit-invez/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bit-invez/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "d682d84914c2871c8358",
+    "revision": "d98ed5b54cf1a73ac070",
     "url": "/bit-invez/static/css/main.c4ace6f1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bit-invez/static/js/2.9306abe0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d682d84914c2871c8358",
-    "url": "/bit-invez/static/js/main.3cb87a4b.chunk.js"
+    "revision": "d98ed5b54cf1a73ac070",
+    "url": "/bit-invez/static/js/main.e8856504.chunk.js"
   },
   {
     "revision": "db5ff025a0ffb4780af0",

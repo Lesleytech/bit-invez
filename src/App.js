@@ -17,13 +17,41 @@ export default function App() {
     <AuthProvider>
       <Router>
         <Switch>
-          <ProtectedRoute path='/' component={HomeScreen} exact />
-          <Route path='/welcome' component={WelcomeScreen} exact />
-          <Route path='/login' component={LoginScreen} exact />
-          <Route path='/register' component={RegisterScreen} exact />
-          <Route path='/about' component={AboutScreen} exact />
-          <Route path='/contact' component={ContactScreen} exact />
-          <Route path='/faq' component={FaqScreen} exact />
+          <ProtectedRoute
+            path={process.env.PUBLIC_URL + '/'}
+            component={HomeScreen}
+            exact
+          />
+          <Route
+            path={process.env.PUBLIC_URL + '/welcome'}
+            component={WelcomeScreen}
+            exact
+          />
+          <Route
+            path={process.env.PUBLIC_URL + '/login'}
+            component={LoginScreen}
+            exact
+          />
+          <Route
+            path={process.env.PUBLIC_URL + '/register'}
+            component={RegisterScreen}
+            exact
+          />
+          <Route
+            path={process.env.PUBLIC_URL + '/about'}
+            component={AboutScreen}
+            exact
+          />
+          <Route
+            path={process.env.PUBLIC_URL + '/contact'}
+            component={ContactScreen}
+            exact
+          />
+          <Route
+            path={process.env.PUBLIC_URL + '/faq'}
+            component={FaqScreen}
+            exact
+          />
         </Switch>
       </Router>
     </AuthProvider>

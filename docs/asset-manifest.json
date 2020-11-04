@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bit-invez/static/css/main.c4ace6f1.chunk.css",
-    "main.js": "/bit-invez/static/js/main.3cb87a4b.chunk.js",
-    "main.js.map": "/bit-invez/static/js/main.3cb87a4b.chunk.js.map",
+    "main.js": "/bit-invez/static/js/main.e8856504.chunk.js",
+    "main.js.map": "/bit-invez/static/js/main.e8856504.chunk.js.map",
     "runtime-main.js": "/bit-invez/static/js/runtime-main.01570f1f.js",
     "runtime-main.js.map": "/bit-invez/static/js/runtime-main.01570f1f.js.map",
     "static/css/2.f524894f.chunk.css": "/bit-invez/static/css/2.f524894f.chunk.css",
     "static/js/2.9306abe0.chunk.js": "/bit-invez/static/js/2.9306abe0.chunk.js",
     "static/js/2.9306abe0.chunk.js.map": "/bit-invez/static/js/2.9306abe0.chunk.js.map",
     "index.html": "/bit-invez/index.html",
-    "precache-manifest.53ef47e6d2f1a5d43137b609cd412711.js": "/bit-invez/precache-manifest.53ef47e6d2f1a5d43137b609cd412711.js",
+    "precache-manifest.d8ac7447b95570c70d8b041e6e9d318a.js": "/bit-invez/precache-manifest.d8ac7447b95570c70d8b041e6e9d318a.js",
     "service-worker.js": "/bit-invez/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/bit-invez/static/css/2.f524894f.chunk.css.map",
     "static/css/main.c4ace6f1.chunk.css.map": "/bit-invez/static/css/main.c4ace6f1.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.f524894f.chunk.css",
     "static/js/2.9306abe0.chunk.js",
     "static/css/main.c4ace6f1.chunk.css",
-    "static/js/main.3cb87a4b.chunk.js"
+    "static/js/main.e8856504.chunk.js"
   ]
 }
